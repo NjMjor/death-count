@@ -1,6 +1,6 @@
 # PUBG Death Count!
 
-### *Prvi koji stigne do 100 smrti casti squad cevapima u Kruni!*
+### *Prvi retard koji uspije umrijeti 100 puta casti squad cevapima u Kruni!*
 
 **PRAVILA:**
 1. Retard koji je prvi poginuo early game, nakon cega squad mora da ide **EXIT TO LOBBY**, dobija +1 na death count.
