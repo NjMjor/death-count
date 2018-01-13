@@ -8,12 +8,12 @@
 
 **THE SQUAD:**
 
-- Dule:7
+- Dule: 7
 
-- Grba:2
+- Grba: 2
 
-- Stefo:2
+- Stefo: 2
 
-- Nuci:0
+- Nuci: 0
 
-- Mladjo:1
+- Mladjo: 1
