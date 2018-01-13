@@ -14,6 +14,6 @@
 
 - Stefo: 3
 
-- Nuci: 3
+- Nuci: 4
 
 - Mladjo: 1
