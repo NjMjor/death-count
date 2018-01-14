@@ -8,11 +8,11 @@
 
 **THE SQUAD:**
 
-- Dule: 7
+- Dule: 8
 
 - Grba: 2
 
-- Stefo: 2
+- Stefo: 3
 
 - Nuci: 5
 
