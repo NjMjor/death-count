@@ -8,7 +8,7 @@
 
 **THE SQUAD:**
 
-- Dule: 7
+- Dule: 8
 
 - Grba: 2
 
