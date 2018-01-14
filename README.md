@@ -12,8 +12,8 @@
 
 - Grba: 2
 
-- Stefo: 3
+- Stefo: 2
 
-- Nuci: 6
+- Nuci: 5
 
 - Mladjo: 1
