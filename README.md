@@ -12,7 +12,7 @@
 
 - Grba: 2
 
-- Stefo: 5
+- Stefo: 6
 
 - Nuci: 5
 
