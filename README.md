@@ -16,4 +16,4 @@
 
 - Nuci: 5
 
-- Mladjo: 2
+- Mladjo: 3
