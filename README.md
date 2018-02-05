@@ -8,7 +8,7 @@
 
 **THE SQUAD:**
 
-- Dule: 33
+- Dule: 34
 
 - Grba: 2
 
@@ -16,4 +16,4 @@
 
 - Nuci: 6
 
-- Mladjo: 11
+- Mladjo: 12
